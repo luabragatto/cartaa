@@ -4,7 +4,7 @@ body{
     max-width: 800px;
     font-family: "roboto mono";
     line-height: 1.5;   
-    background: url(../img/imgg.jpg);
+    background-color: #ff8080;
     background-size: cover;
     color: #ffffff;
   
